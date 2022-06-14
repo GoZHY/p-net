@@ -145,3 +145,14 @@ Contributions are welcome. If you want to contribute you will need to
 sign a Contributor License Agreement and send it to us either by
 e-mail or by physical mail. More information is available
 on [https://rt-labs.com/contribution](https://rt-labs.com/contribution).
+
+
+Misc：
+西门子知识点：RT通讯与IRT通讯的区别
+https://baijiahao.baidu.com/s?id=1718750622767113145&wfr=spider&for=pc
+Profinet协议基础知识(四)
+https://blog.csdn.net/weixin_47677928/article/details/107916544
+一窥世界上延迟最低的网络
+https://zhuanlan.zhihu.com/p/502376979
+一种基于CAN总线的低时延端对端通讯方法与流程
+http://www.xjishu.com/zhuanli/62/202010205560.html
